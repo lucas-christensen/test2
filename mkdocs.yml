@@ -1,0 +1,4 @@
+# test/mkdocs.yml
+nav:
+  - Home: docs/index.md
+
